@@ -1,2 +1,2 @@
-slacker
+slacker==0.9.50
 git+https://github.com/tinloaf/matrix-python-sdk@groups
